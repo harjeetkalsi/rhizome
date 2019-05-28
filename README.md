@@ -1,0 +1,2 @@
+# rhizome
+Static information website 
